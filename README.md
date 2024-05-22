@@ -30,11 +30,11 @@ Project Name: Lending Club Case Study
 * IPython – Ver 7.34.0
 
 ## Process
-### Step 1: Data Cleaning 1  
-### Step 2: Univariate Analysis
-### Step 3: Segemented Univariate Analysis
-### Step 4: Bivaraiate/Multivariate Analysis
-### Step 5: Results 
+* Step 1: Data Cleaning 1  
+* Step 2: Univariate Analysis
+* Step 3: Segemented Univariate Analysis
+* Step 4: Bivaraiate/Multivariate Analysis
+* Step 5: Results 
 
 ## Conclusions
 Certainly! Here's a more formal presentation of the key findings from the exploratory data analysis (EDA) of the loan dataset, categorizing factors by their impact on loan default:
